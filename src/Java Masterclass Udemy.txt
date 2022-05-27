@@ -1,0 +1,28 @@
+Java Masterclass Udemy
+
+Public/Private = Access modifier
+
+Method = Collection of statements that performs an operatrion.
+Main method = entry point for any java code -> Java looks for this method to start/run the program
+    > Public static void main(String[] args) { }
+
+Variables can be defined by different Data types.
+
+Primitive Data types:
+            - boolean: true or false
+            - byte: number between -128 and 127
+            - char: 
+            - short: number between -32768 and 32767
+            - int: number between -2147483648 and 2147483647
+            - long: number between -9223372036854775808 and 9223372036854775807
+            - float: 
+            - double: 
+
+OVERFLOW:   MIN VALUE - 1 flows over to MAX VALUE
+            MAX VALUE + 1 flows over to MIN VALUE
+
+Casting = convert a number from one type to another
+
+String is a datatype which is NOT a primitive type. It's a class.
+A string can contain a sequence of characters.
+Strings in Java are immutable. That means you can't change a String after it's created. Instead what happens is a new String is created.
